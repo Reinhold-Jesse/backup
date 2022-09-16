@@ -1,0 +1,16 @@
+{
+    "name": "reinholdjesse/backup",
+    "autoload": {
+        "psr-4": {
+            "Reinholdjesse\\Backup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reinhold-Jesse",
+            "email": "reinhold.jesse@gmx.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
