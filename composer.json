@@ -12,5 +12,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "reinholdjesse/core": "dev-main"
+    }
 }
