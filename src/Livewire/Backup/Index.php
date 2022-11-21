@@ -155,7 +155,7 @@ class Index extends Component
 
     private function existsSettingsEntry(string $key)
     {
-        return Setting::where('key', $key)->get()->first();
+        return Setting::where('key', $key)->first();
     }
 
     private function createBackupSettingsEntry(string $key, string $title)
